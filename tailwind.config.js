@@ -4,9 +4,10 @@ module.exports = {
   ],
   theme: {
     screens: {
-      sm: '480px',
-      md: '768px',
-      lg: '976px',
+      ssm: '480px',
+      sm: '720px',
+      md: '900px',
+      lg: '1200px',
       xl: '1448px'
     },
     extend: {
@@ -16,7 +17,8 @@ module.exports = {
         greenLight: '#b6ffc0',
         orange: '#ff764d',
         lavender: '#d5b3ff',
-        blue: '#0000ff'
+        blue: '#0000ff',
+        hoverGray: 'hsl(227, 12%, 61%)',
       }
     },
   },
