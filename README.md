@@ -21,7 +21,7 @@ Alternatively, a live link will be available soon
 
 ~~1. Initial React project initialization~~ <br>
 ~~2. Tailwind configuration<br>~~
-3. React Router configuration<br>
+~~3. React Router configuration<br>~~
 4. NavBar component<br>
 5. Hero image component (title to text overlay image)<br>
 6. Heading text<br>
