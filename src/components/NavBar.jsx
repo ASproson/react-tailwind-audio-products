@@ -10,7 +10,7 @@ const NavBar = () => {
                 <div className="w-20 h-20 flex justify-center items-center shrink-0">
                    <img src={ abletonLogo } alt=""/>
                 </div>
-                <div className="invisible md:visible space-x-6 sm:space-x-8 ml-10">
+                <div className="invisible md:visible space-x-6 sm:space-x-8 ml-10 font-semibold">
                     <Link to='/' className="hover:text-hoverGray">Live</Link>
                     <Link to='/' className="hover:text-hoverGray">Push</Link>
                     <Link to='/' className="hover:text-hoverGray">Link</Link>
@@ -19,8 +19,8 @@ const NavBar = () => {
                     <Link to='/' className="hover:text-hoverGray">Help</Link>
                     <Link to='/' className="hover:text-hoverGray">More +</Link>
                 </div>
-                <div className="invisible mdlg:visible space-x-6 sm:space-x-8 ml-auto">
-                    <Link to='/' className="text-blue font-semibold hover:text-orange">Try Live for free</Link>
+                <div className="invisible mdlg:visible space-x-6 sm:space-x-8 ml-auto font-semibold">
+                    <Link to='/' className="text-blue hover:text-orange">Try Live for free</Link>
                     <Link to='/' className="hover:text-hoverGray">Account</Link>
                     <Link to='/' className="hover:text-hoverGray">Login</Link>
                 </div>
