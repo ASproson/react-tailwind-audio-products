@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-audio-products/static/css/main.bdbf24d2.css",
+    "main.js": "/react-tailwind-audio-products/static/js/main.8261f215.js",
+    "index.html": "/react-tailwind-audio-products/index.html",
+    "main.bdbf24d2.css.map": "/react-tailwind-audio-products/static/css/main.bdbf24d2.css.map",
+    "main.8261f215.js.map": "/react-tailwind-audio-products/static/js/main.8261f215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdbf24d2.css",
+    "static/js/main.8261f215.js"
+  ]
+}
