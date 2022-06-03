@@ -36,5 +36,5 @@ Alternatively, a live link will be available soon
 15. Sixth heading and text<br>
 16. Final image component and link to jobs<br>
 17. Footer<br>
-18. Deploy to GitHub pages
+18. Deploy to GitHub pages <br>
 19. Internationalization selection using [react-i18next](https://react.i18next.com/)<br>
