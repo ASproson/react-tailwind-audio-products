@@ -17,8 +17,8 @@ const HeroSection = () => {
         </h1>
       </div>
       <div className= "mt-20 w-2/4 max-w-2xl mx-auto">
-        <h2 className="mb-10 text-2xl">
-            We make Live, Push, and Link - unique software and hardware for music creation and performance. With these products, our community of users creates amazing things.
+        <h2 className="mb-10 text-2xl font-semibold">
+            We make <span className="text-blue">Live</span>, <span className="text-blue">Push</span>, and <span className="text-blue">Link</span> - unique software and hardware for music creation and performance. With these products, our community of users creates amazing things.
         </h2>
         <p>
             Ableton was founded in 1999 and released the first version of Live in 2001. Our products are used by a community of dedicated musicians, sound designers, and artists from across the world.
