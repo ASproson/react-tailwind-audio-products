@@ -4,7 +4,7 @@ import abletonLogo from '../assets/ableton-logo.png'
 
 const NavBar = () => {
   return (
-    <div className="pl-10 pr-10 pt-5 pb-5">
+    <div className="pl-10 pr-10">
         <nav className="p-2">
             <div className="flex items-center">
                 <div className="w-20 h-20 flex justify-center items-center shrink-0">
@@ -19,7 +19,7 @@ const NavBar = () => {
                     <Link to='/' className="hover:text-hoverGray">Help</Link>
                     <Link to='/' className="hover:text-hoverGray">More +</Link>
                 </div>
-                <div className="invisible md:visible space-x-6 sm:space-x-3 ml-auto">
+                <div className="invisible mdlg:visible space-x-6 sm:space-x-8 ml-auto">
                     <Link to='/' className="text-blue font-semibold hover:text-orange">Try Live for free</Link>
                     <Link to='/' className="hover:text-hoverGray">Account</Link>
                     <Link to='/' className="hover:text-hoverGray">Login</Link>
