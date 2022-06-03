@@ -4,7 +4,7 @@ import abletonLogo from '../assets/ableton-logo.png'
 
 const NavBar = () => {
   return (
-    <div className="pl-10 pr-10">
+    <div className="pl-10 pr-10 lg:border-2 xl:pl-80 xl:pr-80">
         <nav className="p-2">
             <div className="flex items-center">
                 <div className="w-20 h-20 flex justify-center items-center shrink-0">
