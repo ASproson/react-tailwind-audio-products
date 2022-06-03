@@ -14,7 +14,8 @@ For this repo I'm specifically focusing on the [Ableton reference image](https:/
 > npm start
 
 <br>
-Alternatively, a live link will be available soon
+
+Alternatively, you can view the [live website here](https://asproson.github.io/react-tailwind-audio-products/)
 <br><br>
 
 ## ToDo List
@@ -23,8 +24,8 @@ Alternatively, a live link will be available soon
 ~~2. Tailwind configuration<br>~~
 ~~3. React Router configuration<br>~~
 ~~4. NavBar component<br>~~
-5. Hero image component (title to text overlay image)<br>
-6. Heading text<br>
+~~5. Hero image component (title to text overlay image)<br>~~
+~~6. Heading text<br>~~
 7. Secondary image component<br>
 8. Secondary heading, text, and static image with CSS dummy play button overlay (to mimic video player)<br>
 9. Third heading and text<br>
@@ -36,5 +37,5 @@ Alternatively, a live link will be available soon
 15. Sixth heading and text<br>
 16. Final image component and link to jobs<br>
 17. Footer<br>
-18. Deploy to GitHub pages <br>
+~~18. Deploy to GitHub pages <br>~~
 19. Internationalization selection using [react-i18next](https://react.i18next.com/)<br>
