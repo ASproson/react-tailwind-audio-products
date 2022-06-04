@@ -1,4 +1,5 @@
 import React from "react";
+import playButton from "../assets/play-button.png";
 
 const SecondaryHeading = () => {
   const secondaryHeadingImg =
@@ -17,13 +18,23 @@ const SecondaryHeading = () => {
           it for.
         </p>
       </div>
-      <div className="flex justify-center items-center">
+      <div className="mt-20 flex justify-center items-center">
         <img
           src={secondaryHeadingImg}
           alt="Man playing drums"
-          className="mt-20 w-4/6 md:w-3/6"
+          className="w-4/6 md:w-3/6 top-0 left-0"
+        />
+        <img
+          src={playButton}
+          alt="play button overlay"
+          className="absolute h-20 w-20 z-10 md:h-36 md:w-36"
         />
       </div>
+        {/* <div className="mt-1">
+          <figcaption className="text-sm">
+            Why Ableton - Juande Bolivar
+          </figcaption>
+        </div> */}
     </div>
   );
 };
