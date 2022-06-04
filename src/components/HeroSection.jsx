@@ -12,7 +12,7 @@ const HeroSection = () => {
           alt="Guitar player"
           className="object-cover w-full h-full"
         />
-        <h1 className="mx-auto text-center -mt-96 text-9xl text-orange font-semibold">
+        <h1 className="mx-auto text-center -mt-96 md:text-9xl text-orange font-semibold ssm:text-8xl">
           Ableton
         </h1>
       </div>
