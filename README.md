@@ -26,7 +26,7 @@ Alternatively, you can view the [live website here](https://asproson.github.io/r
 ~~4. NavBar component<br>~~
 ~~5. Hero image component (title to text overlay image)<br>~~
 ~~6. Heading text<br>~~
-7. Secondary image component<br>
+~~7. Secondary image component<br>~~
 8. Secondary heading, text, and static image with CSS dummy play button overlay (to mimic video player)<br>
 9. Third heading and text<br>
 10. Third image component with nested divs to columnize two images, a div next to nested divs to provide right image<br>
