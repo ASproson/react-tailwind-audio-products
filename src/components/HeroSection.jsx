@@ -4,6 +4,8 @@ const HeroSection = () => {
   const heroImg =
     "https://images.unsplash.com/photo-1462965326201-d02e4f455804?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80";
 
+  const textColorAndHover = "text-blue hover:text-orange cursor-pointer";
+
   return (
     <div>
       <div className="w-4/4 h-600">
@@ -18,11 +20,11 @@ const HeroSection = () => {
       </div>
       <div className="mt-20 w-2/4 max-w-2xl mx-auto">
         <h2 className="mb-10 text-2xl font-semibold">
-          We make <span className="text-blue">Live</span>,{" "}
-          <span className="text-blue">Push</span>, and{" "}
-          <span className="text-blue">Link</span> - unique software and hardware
-          for music creation and performance. With these products, our community
-          of users creates amazing things.
+          We make <span className={textColorAndHover}>Live</span>,{" "}
+          <span className={textColorAndHover}>Push</span>, and{" "}
+          <span className={textColorAndHover}>Link</span> - unique software and
+          hardware for music creation and performance. With these products, our
+          community of users creates amazing things.
         </h2>
         <p>
           Ableton was founded in 1999 and released the first version of Live in
