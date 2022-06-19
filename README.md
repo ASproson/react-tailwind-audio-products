@@ -4,6 +4,8 @@ Hello there! This is a project to demonstrate my skills with React and Tailwind 
 
 For this repo I'm specifically focusing on the [Ableton reference image](https://www.frontendpractice.com/_next/image?url=%2Ffullsize%2FC1-Ableton.jpg&w=1920&q=90), but will be making use of different stock images and branding. 
 
+You can view the [live deployment here](https://asproson.github.io/react-tailwind-audio-products/)
+
 ## Installation
 <br>
 
