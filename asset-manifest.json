@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-tailwind-audio-products/static/css/main.ad7e7f3f.css",
-    "main.js": "/react-tailwind-audio-products/static/js/main.c224e4d7.js",
+    "main.css": "/react-tailwind-audio-products/static/css/main.aabb2618.css",
+    "main.js": "/react-tailwind-audio-products/static/js/main.0722fd30.js",
     "static/media/play-button.png": "/react-tailwind-audio-products/static/media/play-button.e629f5971049b8efc7a3.png",
     "index.html": "/react-tailwind-audio-products/index.html",
-    "main.ad7e7f3f.css.map": "/react-tailwind-audio-products/static/css/main.ad7e7f3f.css.map",
-    "main.c224e4d7.js.map": "/react-tailwind-audio-products/static/js/main.c224e4d7.js.map"
+    "main.aabb2618.css.map": "/react-tailwind-audio-products/static/css/main.aabb2618.css.map",
+    "main.0722fd30.js.map": "/react-tailwind-audio-products/static/js/main.0722fd30.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad7e7f3f.css",
-    "static/js/main.c224e4d7.js"
+    "static/css/main.aabb2618.css",
+    "static/js/main.0722fd30.js"
   ]
 }
